@@ -17,3 +17,7 @@
     background: url('../img/edr-gears.png');
     background-size: cover;
 }
+
+html {
+    background: black;
+}
